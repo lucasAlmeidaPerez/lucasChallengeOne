@@ -1,0 +1,33 @@
+.bot-create{
+	max-width: 700px;
+	margin:20px auto 0;
+	padding: 20px;
+	background: #fff;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+}
+
+.bot-create input[type='text']{
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+	margin-top: 5px;
+	line-height: 24px;
+	display: block;
+	margin-bottom: 5px;
+}
+.bot-create input[type='submit']{
+	padding: 10px;
+	border-radius: 5px;
+	border: 0;
+	background: #da552f;
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+	cursor: pointer;	
+}
+
+.bot-create input[type='submit']:hover{
+	opacity: 0.7;
+	transition: all 0.2s;
+}
