@@ -19,13 +19,13 @@ Esta API é capaz de:
 -   Retornar todas as mensagens de uma determinada conversa;
 
 Foi criado um pequeno site com REACT para consumir essa API apenas como exemplo. Este site está presente neste repositório na pasta
-botapp caso queira utiliza-lo também para observar a API sendo utilizada, bastando apenas instalá-la em sua máquina.
+botapp caso queira utiliza-lo para observar a API sendo utilizada, basta instalá-la em sua máquina.
 
 # Instalação da API
 
 A API está disponível para acesso em https://sabion-challenge-one.herokuapp.com/api e o banco de dados está hospendado utilizando
 os serviços do site: https://www.mongodb.com/cloud/atlas e estará disponível por um tempo determinado (1 mês a contar de 29/06/2019). 
-Caso esteja acessando este repositório após este período é aconselhado instalar esta em sua maquina!
+Caso esteja acessando este repositório após este período, é aconselhado instalar esta API em sua maquina!
 
 Para instalar é simples. Após clonar ou baixar este repositório para seu computador execute os próximos passos para concluir a instalação da API 
 
